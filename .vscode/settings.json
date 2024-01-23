@@ -1,0 +1,8 @@
+{
+  "prettier.documentSelectors": [
+    "*.{ts,js}"
+  ],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true
+}

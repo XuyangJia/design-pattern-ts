@@ -82,7 +82,7 @@ abstract class Animal {
 class Cat extends Animal {
   name: string = 'cat'
   makeSound(): void {
-    console.log('喵~~~')
+    console.log('喵~~~');
   }
 }
 

@@ -1,0 +1,16 @@
+{
+  "name": "design-pattern-ts",
+  "version": "1.0.0",
+  "description": "ts版本设计模式",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest --run --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^1.2.1",
+    "vitest": "^1.2.1"
+  }
+}
